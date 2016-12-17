@@ -1,0 +1,5 @@
+C:\Users\komar\OneDrive\Документы\Visual Studio 2015\Projects\ChesslikeGames\DrawablesUI\bin\Debug\DrawablesUI.dll
+C:\Users\komar\OneDrive\Документы\Visual Studio 2015\Projects\ChesslikeGames\DrawablesUI\bin\Debug\DrawablesUI.pdb
+C:\Users\komar\OneDrive\Документы\Visual Studio 2015\Projects\ChesslikeGames\DrawablesUI\obj\Debug\GameGUI.csprojResolveAssemblyReference.cache
+C:\Users\komar\OneDrive\Документы\Visual Studio 2015\Projects\ChesslikeGames\DrawablesUI\obj\Debug\DrawablesUI.dll
+C:\Users\komar\OneDrive\Документы\Visual Studio 2015\Projects\ChesslikeGames\DrawablesUI\obj\Debug\DrawablesUI.pdb

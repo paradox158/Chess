@@ -1,0 +1,6 @@
+C:\Users\komar\OneDrive\Документы\Visual Studio 2015\Projects\ChesslikeGames\ConsoleUI\bin\Debug\ConsoleUI.dll.config
+C:\Users\komar\OneDrive\Документы\Visual Studio 2015\Projects\ChesslikeGames\ConsoleUI\bin\Debug\ConsoleUI.dll
+C:\Users\komar\OneDrive\Документы\Visual Studio 2015\Projects\ChesslikeGames\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\komar\OneDrive\Документы\Visual Studio 2015\Projects\ChesslikeGames\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\komar\OneDrive\Документы\Visual Studio 2015\Projects\ChesslikeGames\ConsoleUI\obj\Debug\ConsoleUI.dll
+C:\Users\komar\OneDrive\Документы\Visual Studio 2015\Projects\ChesslikeGames\ConsoleUI\obj\Debug\ConsoleUI.pdb
